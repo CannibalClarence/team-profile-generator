@@ -11,10 +11,24 @@ Your challenge is to build a Node.js command-line application that takes in info
 Because this application won’t be deployed, you’ll also need to provide a link to a walkthrough video that demonstrates its functionality and all of the tests passing. You’ll need to submit a link to the video and add it to the README of your project.
 
 ## Built With
+<li>
 JavaScript
+</li>
+<li>
 Node.js
+</li> 
+<li>
 Shields.io
+</li>   
+<li>
 Jestjs.io
+</li>      
+<li>
 NPM Inquirer Package
+</li>        
+<li>
 NPM FS Package
+</li>          
+<li>
 NPM Colors Package
+</li>

@@ -35,14 +35,16 @@ NPM Colors Package
 
 ## Usage 
 <ol>
+<li>
 Open Team-Profile-Generator (now stored on your machine) in your terminal.
-</ol>
-<ol>
+</li>
+<li>
 Run node index.js
-</ol>
-<ol>
+</li>
+<li>
 You will be prompted to answer questions about your team. Answer each question.
-</ol>
-<ol>
+</li>
+<li>
 Your My-Team.html file will write to the output folder.
+</li>
 </ol>

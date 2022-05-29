@@ -32,3 +32,17 @@ NPM FS Package
 <li>
 NPM Colors Package
 </li>
+
+## Usage 
+<ol>
+Open Team-Profile-Generator (now stored on your machine) in your terminal.
+</ol>
+<ol>
+Run node index.js
+</ol>
+<ol>
+You will be prompted to answer questions about your team. Answer each question.
+</ol>
+<ol>
+Your My-Team.html file will write to the output folder.
+</ol>

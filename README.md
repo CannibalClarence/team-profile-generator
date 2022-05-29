@@ -54,6 +54,8 @@ Your My-Team.html file will write to the output folder.
 
 ![image](https://user-images.githubusercontent.com/100390351/170894049-7ed90e28-798d-4e36-9356-13af72c3d9ee.png)
 
-Screencastify Link: https://drive.google.com/file/d/1BXH4cUGLtEeqIKEIWZa9WzYcCgdueUfG/view
+Screencastify Walkthrough Video Link: https://drive.google.com/file/d/1BXH4cUGLtEeqIKEIWZa9WzYcCgdueUfG/view
 
+## Contribution
+Made with love by Theo Phillips
 

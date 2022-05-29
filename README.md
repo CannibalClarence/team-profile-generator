@@ -48,3 +48,12 @@ You will be prompted to answer questions about your team. Answer each question.
 Your My-Team.html file will write to the output folder.
 </li>
 </ol>
+
+## ScreenShots and Demo Video
+![image](https://user-images.githubusercontent.com/100390351/170894028-08e1eecc-0507-44c3-944d-077de907c9dc.png)
+
+![image](https://user-images.githubusercontent.com/100390351/170894049-7ed90e28-798d-4e36-9356-13af72c3d9ee.png)
+
+Screencastify Link: https://drive.google.com/file/d/1BXH4cUGLtEeqIKEIWZa9WzYcCgdueUfG/view
+
+

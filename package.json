@@ -7,7 +7,7 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/CannibalClarence/team-profile-generator/issues"
   },
-  "homepage": "https://github.com/CannibalClarence/team-profile-generator#readme"
+  "homepage": "https://github.com/CannibalClarence/team-profile-generator#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.4",
+    "jest": "^28.1.0"
+  }
 }
